@@ -81,3 +81,7 @@ td {
 thead th {
   text-transform: uppercase;
 }
+.red-cell{
+  background-color: red;
+  /* border: 10px solid; */
+}
